@@ -90,8 +90,6 @@ yyets_offline - 人人影视离线数据
 * 宣传，使用，提交问题报告
 * 收藏[我的博客](https://dmesg.app/)
 * [Telegram Channel](https://t.me/mikuri520)
-* 捐助我，[给我买杯咖啡？](https://www.buymeacoffee.com/bennythink)
-* 捐助我，[爱发电？](https://afdian.net/@BennyThink)
 
 # 感谢
 [Thanks](THANKS.md)
